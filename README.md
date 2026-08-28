@@ -136,39 +136,106 @@ Ship
 </div>
 
 ---
-
-##  Featured Projects
-
-### 🌦️ Weather Dashboard
-A modern weather dashboard built with React, Vite and Tailwind CSS.
-
-**Tech:** React • Vite • Tailwind CSS • Weather API
-
----
-
-### 🛍️ Scentsation — Premium Fragrance E-Store
-A full-stack e-commerce experience focused on modern UI and smooth user interactions.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-### 📚 CourseSpace
-A modern course/education landing experience built with React and Tailwind CSS.
-
-**Tech:** React • Vite • Tailwind CSS
-
----
-
-## 📊 GitHub Analytics
+## Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AISHAISMAIL584&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=34D399&text_color=E5E7EB&rank_icon=github" />
+### 01 — CourseSpace
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AISHAISMAIL584&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=E5E7EB" />
+**Modern Learning Platform**
+
+A modern course and learning platform designed with a clean interface, responsive layouts, and an engaging user experience for discovering and exploring online courses.
+
+`React` · `Vite` · `Tailwind CSS` · `JavaScript`
+
+<br>
+
+<a href="YOUR_COURSESPACE_GITHUB_LINK">
+View Repository
+</a>
+
+  ·  
+
+<a href="YOUR_COURSESPACE_LIVE_LINK">
+Live Demo
+</a>
+
+---
+
+### 02 — Scentsation
+
+**Premium Fragrance E-Commerce**
+
+A full-stack fragrance e-commerce experience focused on modern UI, product discovery, authentication, and a smooth shopping experience.
+
+`React` · `Node.js` · `Express` · `MongoDB` · `Stripe`
+
+<br>
+
+<a href="YOUR_SCENTSATION_GITHUB_LINK">
+View Repository
+</a>
+
+  ·  
+
+<a href="YOUR_SCENTSATION_LIVE_LINK">
+Live Demo
+</a>
+
+---
+
+### 03 — Weather Dashboard
+
+**Real-Time Weather Experience**
+
+A responsive weather dashboard that transforms live weather data into a clean and interactive experience with forecasts, highlights, and detailed weather information.
+
+`React` · `Vite` · `Tailwind CSS` · `REST API`
+
+<br>
+
+<a href="YOUR_WEATHER_GITHUB_LINK">
+View Repository
+</a>
+
+  ·  
+
+<a href="YOUR_WEATHER_LIVE_LINK">
+Live Demo
+</a>
+
+---
+
+### 04 — Resume Builder
+
+**Dynamic Resume Generator**
+
+A web application that allows users to create and manage professional resumes with a simple, responsive interface and cloud-based data handling.
+
+`React` · `Firebase` · `Firestore`
+
+<br>
+
+<a href="YOUR_RESUME_GITHUB_LINK">
+View Repository
+</a>
+
+  ·  
+
+<a href="YOUR_RESUME_LIVE_LINK">
+Live Demo
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00C9A7,100:003B46&height=2&section=header&animation=twinkling" width="70%" />
+
+<br><br>
+
+`BUILDING` → `TESTING` → `IMPROVING` → `SHIPPING`
 
 </div>
+
 
 ---
 
