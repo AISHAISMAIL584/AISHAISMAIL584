@@ -239,27 +239,19 @@ Live Demo
 
 ---
 
-## 🔥 Contribution Streak
 
 ## Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AISHAISMAIL584&theme=transparent&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00C9A7&currStreakLabel=00E5FF&sideLabels=66FFCC&dates=7AA9A6" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AISHAISMAIL584&hide_border=true&background=00000000&ring=00E5FF&fire=00C9A7&currStreakLabel=00E5FF&sideLabels=66FFCC&dates=7AA9A6" width="80%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AISHAISMAIL584&bg_color=00000000&color=00E5FF&line=00C9A7&point=66FFCC&area=true&hide_border=true" width="95%" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00C9A7,100:003B46&height=2&section=header&animation=twinkling" width="70%" />
-
-<br><br>
-
-`CONSISTENCY` · `CONTRIBUTION` · `GROWTH`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AISHAISMAIL584&theme=react-dark&hide_border=true&area=true" width="95%" />
 
 </div>
+
 
 ---
 
