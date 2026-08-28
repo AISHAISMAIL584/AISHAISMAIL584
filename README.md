@@ -32,16 +32,38 @@ React · JavaScript · Node.js · Express · MongoDB · Firebase
 
 ---
 
-##  About Me
+## About Me
 
-I'm **Aisha Ismail**, a passionate developer focused on building modern, responsive and visually polished web applications.
+```txt
+I’m Aisha Ismail — a Full Stack Developer focused on building
+modern, responsive, and meaningful web experiences.
 
--  Building full-stack web applications
--  Working with React and modern JavaScript
--  Exploring AI-powered web experiences
--  I care about both **functionality and design**
--  Constantly learning and improving
--  Turning ideas into real-world projects
+I enjoy turning ideas into functional products, designing clean
+interfaces, and bringing them to life with modern technologies.
+
+Currently exploring deeper into full-stack development, scalable
+applications, and AI-powered web experiences.
+
+I believe great software sits at the intersection of
+clean code, thoughtful design, and real-world impact.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FOCUS        Full Stack Development
+BUILDING     Modern Web Applications
+EXPLORING    AI-Powered Experiences
+MINDSET      Learn → Build → Improve → Repeat
+```
+
+<br>
+
+<div align="center">
+
+`CREATIVE THINKING`  ·  `CLEAN CODE`  ·  `CONTINUOUS LEARNING`
+
+</div>
+```
+
 
 ---
 
