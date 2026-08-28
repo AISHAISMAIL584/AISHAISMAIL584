@@ -240,17 +240,24 @@ Live Demo
 ---
 
 
-## Contribution Streak
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AISHAISMAIL584&hide_border=true&background=00000000&ring=00E5FF&fire=00C9A7&currStreakLabel=00E5FF&sideLabels=66FFCC&dates=7AA9A6" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AISHAISMAIL584&theme=github_dark" width="95%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AISHAISMAIL584&theme=react-dark&hide_border=true&area=true" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AISHAISMAIL584&theme=github_dark" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AISHAISMAIL584&theme=github_dark" width="45%" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00C9A7,100:003B46&height=2&section=header&animation=twinkling" width="70%" />
 
 </div>
+
 
 
 ---
