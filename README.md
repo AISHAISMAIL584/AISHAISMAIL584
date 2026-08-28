@@ -108,36 +108,30 @@ Ship
 </div>
 
 
-
 ## Tech Stack
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=FRONTEND+DEVELOPMENT;BACKEND+DEVELOPMENT;DATABASES+%26+SERVICES;TOOLS+%26+WORKFLOW" alt="Tech Stack Categories" />
 
 <br><br>
 
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00C9A7,100:003B46&height=2&section=header&animation=twinkling" width="65%" />
 
 <br><br>
 
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,npm,axios" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1800&pause=500&color=66FFCC&center=true&vCenter=true&width=850&lines=%3C+HTML+%2F%3E+%C2%A0%C2%A0%7B+CSS+%7D+%C2%A0%C2%A0%5B+JavaScript+%5D+%C2%A0%C2%A0%3C+React+%2F%3E;%7B+Tailwind+CSS+%7D+%C2%A0%C2%A0%7B+Bootstrap+%7D+%C2%A0%C2%A0%3C+Vite+%2F%3E;%3C+Node.js+%2F%3E+%C2%A0%C2%A0%3C+Express+%2F%3E+%C2%A0%C2%A0%7B+MongoDB+%7D;%7B+Firebase+%7D+%C2%A0%C2%A0%5B+REST+APIs+%5D+%C2%A0%C2%A0%3C+Axios+%2F%3E;%3C+Git+%2F%3E+%C2%A0%C2%A0%3C+GitHub+%2F%3E+%C2%A0%C2%A0%5B+npm+%5D" alt="Animated Tech Stack" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00C9A7,100:003B46&height=2&section=header&animation=twinkling" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B46,50:00C9A7,100:00E5FF&height=2&section=header&animation=twinkling" width="65%" />
 
 <br><br>
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Vite` · `Tailwind CSS`
-`Node.js` · `Express` · `MongoDB` · `Firebase`
-`Git` · `GitHub` · `npm` · `REST APIs`
+### Current Stack
+
+`React` · `JavaScript` · `Tailwind CSS` · `Node.js` · `Express`
+`MongoDB` · `Firebase` · `REST APIs` · `Git` · `GitHub`
 
 </div>
 
