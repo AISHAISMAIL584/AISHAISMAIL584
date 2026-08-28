@@ -1,37 +1,22 @@
-<!-- <div align="center">
-
-# Aisha Ismail
-
-### 💻 Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Interactive+Web+Apps" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<a href="https://github.com/AISHAISMAIL584">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0B0B0F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div> -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+AISHA+ISMAIL;%F0%9F%92%BB+FULL+STACK+DEVELOPER;%F0%9F%9A%80+BUILDING+THE+WEB+OF+TOMORROW" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284094-9f4c0f0c-7c1c-4b3d-b5f6-4c5d8c8f5c5e.gif" width="700">
-
-<br>
-
-### `⚡ Code. Create. Innovate.`
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=66FFCC&center=true&vCenter=true&width=650&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Turning+ideas+into+real+web+experiences;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+AISHA+ISMAIL;%F0%9F%92%BB+FULL+STACK+DEVELOPER;%F0%9F%9A%80+CREATIVE+CODER" alt="Typing Header" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AISHAISMAIL584&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00C9A7,100:001F2B&height=120&section=header&animation=twinkling" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2800&pause=900&color=66FFCC&center=true&vCenter=true&width=700&lines=Turning+ideas+into+interactive+experiences+%E2%9A%A1;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Building.+Breaking.+Debugging.+Shipping.+%F0%9F%9A%80" alt="Animated Introduction" />
+
+<br><br>
+
+<code>Code</code> ⚡ <code>Create</code> ⚡ <code>Innovate</code> ⚡ <code>Deploy</code>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AISHAISMAIL584&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" />
 
 </div>
 
