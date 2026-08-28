@@ -276,23 +276,38 @@ Live Demo
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/AISHAISMAIL584">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+Let’s connect, collaborate, and build something meaningful.
+</p>
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00C9A7" />
 </a>
 
-<a href="https://www.instagram.com/webxora/">
-<img src="https://img.shields.io/badge/Web_Xora-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00C9A7,100:003B46&height=2&section=header&animation=twinkling" width="60%" />
+
+<br><br>
+
+`OPEN TO COLLABORATION` · `OPEN TO OPPORTUNITIES` · `ALWAYS BUILDING`
 
 </div>
+
 
 ---
 
