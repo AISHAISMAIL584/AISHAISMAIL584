@@ -313,7 +313,7 @@ Let’s connect, collaborate, and build something meaningful.
 
 <div align="center">
 
-### ✨ "Build. Learn. Create. Repeat."
+###  "Build. Learn. Create. Repeat."
 
 <br/>
 
