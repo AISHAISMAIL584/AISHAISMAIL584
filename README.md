@@ -8,14 +8,6 @@
 
 </div>
 
-<div align="center">
-
-# 👋 Hi, I'm Aisha Ismail
-
-### 💻 Full Stack Developer | React Developer | Creative Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences+✨;Turning+ideas+into+real+products+🚀;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Always+learning.+Always+building." alt="Typing SVG" />
-
 <br/>
 
 <a href="https://github.com/AISHAISMAIL584">
@@ -26,16 +18,16 @@
 
 ---
 
-## 🌊 About Me
+##  About Me
 
 I'm **Aisha Ismail**, a passionate developer focused on building modern, responsive and visually polished web applications.
 
-- 🚀 Building full-stack web applications
-- ⚛️ Working with React and modern JavaScript
-- 🧠 Exploring AI-powered web experiences
-- 🎨 I care about both **functionality and design**
-- 🌱 Constantly learning and improving
-- 💡 Turning ideas into real-world projects
+-  Building full-stack web applications
+-  Working with React and modern JavaScript
+-  Exploring AI-powered web experiences
+-  I care about both **functionality and design**
+-  Constantly learning and improving
+-  Turning ideas into real-world projects
 
 ---
 
@@ -59,7 +51,7 @@ I'm **Aisha Ismail**, a passionate developer focused on building modern, respons
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌦️ Weather Dashboard
 A modern weather dashboard built with React, Vite and Tailwind CSS.
