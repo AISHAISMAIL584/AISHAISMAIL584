@@ -2,7 +2,7 @@
 
 # Aisha Ismail
 
-###💻 Full Stack Developer
+### 💻 Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Interactive+Web+Apps" alt="Typing SVG" />
 
