@@ -109,26 +109,35 @@ Ship
 
 
 
-
-
-
-
-
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,gsap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
+
+<br><br>
 
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-### Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,axios" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00C9A7,100:003B46&height=2&section=header&animation=twinkling" width="70%" />
+
+<br><br>
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Vite` · `Tailwind CSS`
+`Node.js` · `Express` · `MongoDB` · `Firebase`
+`Git` · `GitHub` · `npm` · `REST APIs`
 
 </div>
 
