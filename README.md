@@ -91,6 +91,19 @@ A modern course/education landing experience built with React and Tailwind CSS.
 <img src="https://streak-stats.demolab.com?user=AISHAISMAIL584&hide_border=true&background=00000000&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
 
 </div>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AISHAISMAIL584/AISHAISMAIL584/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AISHAISMAIL584/AISHAISMAIL584/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AISHAISMAIL584/AISHAISMAIL584/output/github-snake.svg">
+</picture>
+
+</div>
 
 ---
 
