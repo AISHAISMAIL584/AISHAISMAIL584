@@ -77,7 +77,7 @@ AI-powered web applications, advanced React patterns, scalable backend architect
 
 ### My Approach
 
-```text
+
 Learn
   ↓
 Build
@@ -89,7 +89,7 @@ Debug
 Improve
   ↓
 Ship
-```
+
 
 </td>
 </tr>
@@ -106,6 +106,8 @@ Ship
 > Clean code. Thoughtful design. Continuous growth.
 
 </div>
+
+
 
 ```
 
