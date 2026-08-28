@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Aisha Ismail
 
@@ -14,7 +14,27 @@
   <img src="https://img.shields.io/badge/GitHub-Profile-0B0B0F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+</div> -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+AISHA+ISMAIL;%F0%9F%92%BB+FULL+STACK+DEVELOPER;%F0%9F%9A%80+BUILDING+THE+WEB+OF+TOMORROW" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-9f4c0f0c-7c1c-4b3d-b5f6-4c5d8c8f5c5e.gif" width="700">
+
+<br>
+
+### `⚡ Code. Create. Innovate.`
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=66FFCC&center=true&vCenter=true&width=650&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Turning+ideas+into+real+web+experiences;Always+learning.+Always+building." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AISHAISMAIL584&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" />
+
 </div>
+
 
 ---
 
