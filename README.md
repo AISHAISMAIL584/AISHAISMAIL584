@@ -34,34 +34,79 @@ React · JavaScript · Node.js · Express · MongoDB · Firebase
 
 ## About Me
 
-```txt
-I’m Aisha Ismail — a Full Stack Developer focused on building
-modern, responsive, and meaningful web experiences.
+<div align="center">
 
-I enjoy turning ideas into functional products, designing clean
-interfaces, and bringing them to life with modern technologies.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Currently exploring deeper into full-stack development, scalable
-applications, and AI-powered web experiences.
+### Who I Am
 
-I believe great software sits at the intersection of
-clean code, thoughtful design, and real-world impact.
+I’m **Aisha Ismail**, a Full Stack Developer who enjoys turning ideas into modern, interactive web experiences.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I care about writing clean code, creating polished interfaces, and building products that feel as good as they look.
 
-FOCUS        Full Stack Development
-BUILDING     Modern Web Applications
-EXPLORING    AI-Powered Experiences
-MINDSET      Learn → Build → Improve → Repeat
+</td>
+
+<td width="50%" valign="top">
+
+### What I Do
+
+**Frontend**
+React · JavaScript · Tailwind CSS
+
+**Backend**
+Node.js · Express · MongoDB
+
+**Tools & Services**
+Firebase · Git · GitHub · REST APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Currently Exploring
+
+AI-powered web applications, advanced React patterns, scalable backend architecture, and better ways to combine development with creative design.
+
+</td>
+
+<td width="50%" valign="top">
+
+### My Approach
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Ship
 ```
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00C9A7,100:003B46&height=2&section=header&animation=twinkling" width="75%" />
 
-`CREATIVE THINKING`  ·  `CLEAN CODE`  ·  `CONTINUOUS LEARNING`
+<br>
+
+### Building With Purpose
+
+> Clean code. Thoughtful design. Continuous growth.
 
 </div>
+
 ```
 
 
